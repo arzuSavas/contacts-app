@@ -1,0 +1,19 @@
+#container{
+    width:400px;
+    background-color:#DDBEBE;
+    padding: 20px;
+
+}
+ul,li{
+    margin:0%;
+    padding: 0%;
+    list-style-type: none;
+}
+.list{
+    margin:15px 0;
+}
+.list>li{
+   background-color:#EEEEEE;
+   padding: 5px;
+   margin-bottom:5px;
+}
